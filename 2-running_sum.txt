@@ -1,0 +1,6 @@
+start
+let total_sum = 0
+ IF a number is positive +total_sum 
+   ELSE
+  IF a number is negative print(total_sum)
+Stop

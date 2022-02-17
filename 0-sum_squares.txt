@@ -1,0 +1,10 @@
+
+Calculate the sum of squares of given input of numbers
+
+
+Step 1:	 Start
+Step 2:	 Let x = 0, z = 0
+step 3:	 c = x + z
+step 4:	 square = [c * c]  
+step 5:  print(square)
+step 6:  Stop

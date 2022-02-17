@@ -1,0 +1,8 @@
+Start
+input 3 numbers
+create variables min , mid, max
+compare minimum value and declare it to min_value.
+compare median value and declare it to mid_value
+compare maximum value and declare it to max_value
+print(min_value, mid_value, max_value)
+stop
